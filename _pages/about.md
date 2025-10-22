@@ -43,16 +43,9 @@ redirect_from:
 - **Xiabing Zhang**; Yuanlin Jiang; Shu Zhang; Fali Li; Changfu Pei; Gang He; Min Ao; Dezhong Yao; Yong Zhao; Peng Xu; Correlation Analysis of EEG Brain Network with modulated acoustic stimulation for chronic tinnitus patients, IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2021, 29: 156-162.（中科院2区）
 - **Xiabing Zhang**; Shu Zhang; Bin Lu; Yifeng Wang; Ning Li; Yueheng Peng; Jingming Hou; Jing Qiu; Fali Li; Dezhong Yao; Peng Xu; Dynamic corticomuscular multi-regional modulations during finger movement revealed by time-varying network analysis, Journal of Neural Engineering, 2022, 19(3): 036014-036014.（中科院2区）
 - **Xiabing Zhang**; Xiaoyi Mo; Cunbo Li; Fali Li; Jing Jin; Ping Xie; Guang Yao; Yuan Lin; Dezhong Yao; Peng Xu; A wearable master–slave rehabilitation robot based on an epidermal array electrode sleeve and multichannel electromyography network, Advanced Intelligent Systems, 2023, 5: 2200313.
-[6] Xiabing Zhang; Bin Lu; Chunli Chen; Lei Yang; Wanjun Chen; Dezhong
-Yao; Jingming Hou; Jing Qiu; Fali Li; Peng Xu; The correlation between upper body
-grip strength and resting-state EEG network, Medical & Biological Engineering &
-Computing, 2023, 61: 2139-2148.（中科院3区）
-[7] Xiabing Zhang; Chen Liu; Zihan Weng; Bin Lu; Fali Li; Peng Xu; The corticomuscular coupling underlying movement and its application for rehabilitation:
-a review[J]. Brain-Apparatus Communication: A Journal of Bacomics, 2023, 2(1): 2183096.
-[8] Xiabing Zhang; Bin Lu; Shu Zhang; Yuqin Li; Fali Li; Yangsong Zhang;
-Peng Xu ; Active or passive mode? Interaction differences within and between the
-central and peripheral nervous systems, The 3rd International Workshop on Neural
-Engineering and Rehabilitation, Zoom, 2022-5-9 至2022-5-11.
+- **Xiabing Zhang**; Bin Lu; Chunli Chen; Lei Yang; Wanjun Chen; Dezhong Yao; Jingming Hou; Jing Qiu; Fali Li; Peng Xu; The correlation between upper body grip strength and resting-state EEG network, Medical & Biological Engineering & Computing, 2023, 61: 2139-2148.
+- **Xiabing Zhang**; Chen Liu; Zihan Weng; Bin Lu; Fali Li; Peng Xu; The corticomuscular coupling underlying movement and its application for rehabilitation: a review[J]. Brain-Apparatus Communication: A Journal of Bacomics, 2023, 2(1): 2183096.
+- **Xiabing Zhang**; Bin Lu; Shu Zhang; Yuqin Li; Fali Li; Yangsong Zhang; Peng Xu ; Active or passive mode? Interaction differences within and between the central and peripheral nervous systems, The 3rd International Workshop on Neural Engineering and Rehabilitation, Zoom, 2022-5-9 至 2022-5-11.
 
 
 # 🎖 Honors and Awards
