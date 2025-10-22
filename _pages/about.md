@@ -40,8 +40,7 @@ redirect_from:
 </div>
 </div>
 
-- Xiabing Zhang; Yuqin Li; Pengfei Zhang; Dexian Wang; Guang Yao; Peng Xu ; Central-peripheral nervous system activation in exoskeleton modes: A Granger causality analysis via EEG-EMG fusion, Expert Systems With Applications, 2025, 268: 126311-126311.（中科院1区）
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet, A, B, C, **CVPR 2020**
+- **Xiabing Zhang**; Yuqin Li; Pengfei Zhang; Dexian Wang; Guang Yao; Peng Xu ; Central-peripheral nervous system activation in exoskeleton modes: A Granger causality analysis via EEG-EMG fusion, Expert Systems With Applications, 2025, 268: 126311-126311.（中科院1区）
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
