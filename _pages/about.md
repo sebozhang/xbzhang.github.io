@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-博士毕业于电子科技大学，助理研究员，成都中医药大学“师资博士后”，长期从事艾灸特定穴位引起的电生理信号研究方向。在生物医学工程、计算机科学与技术、中医学和针灸推拿等领域，与校内和校外相关国家级或教育部重点实验室开展了学术交叉和研究。近年来，本人主持校级科研项目2 项，主研国家级课题1 项，发表论文10 余篇，其中第一作者SCI 论文5篇。
+张夏冰，博士毕业于电子科技大学，助理研究员，成都中医药大学“师资博士后”，长期从事艾灸特定穴位引起的电生理信号研究方向。在生物医学工程、计算机科学与技术、中医学和针灸推拿等领域，与校内和校外相关国家级或教育部重点实验室开展了学术交叉和研究。近年来，本人主持校级科研项目2 项，主研国家级课题1 项，发表论文10 余篇，其中第一作者SCI 论文5篇。
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
