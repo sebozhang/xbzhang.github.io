@@ -33,7 +33,7 @@ redirect_from:
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xiabing Zhang**; Yuqin Li; Pengfei Zhang; Dexian Wang; Guang Yao; Peng Xu
 </div>
 </div>
 
