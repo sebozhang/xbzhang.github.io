@@ -28,7 +28,7 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S0957417424031786</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S0957417424031786</div><img src='images/Highlight.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Central-peripheral nervous system activation in exoskeleton modes: A Granger causality analysis via EEG-EMG fusion, Expert Systems With Applications](https://www.sciencedirect.com/science/article/abs/pii/S0957417424031786)
