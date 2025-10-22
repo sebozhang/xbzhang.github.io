@@ -31,7 +31,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">S0957417424031786</div><img src='images/Highlight.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Central-peripheral nervous system activation in exoskeleton modes: A Granger causality analysis via EEG-EMG fusion, Expert Systems With Applications](https://www.sciencedirect.com/science/article/abs/pii/S0957417424031786)
+[Central-peripheral nervous system activation in exoskeleton modes: A Granger causality analysis via EEG-EMG fusion](https://www.sciencedirect.com/science/article/abs/pii/S0957417424031786)
 
 **Xiabing Zhang**; Yuqin Li; Pengfei Zhang; Dexian Wang; Guang Yao; Peng Xu
 </div>
@@ -39,6 +39,7 @@ redirect_from:
 
 [**2025**]
 - **Xiabing Zhang**; Yuqin Li; Pengfei Zhang; Dexian Wang; Guang Yao; Peng Xu ; Central-peripheral nervous system activation in exoskeleton modes: A Granger causality analysis via EEG-EMG fusion, Expert Systems With Applications, 2025, 268: 126311-126311.（中科院1区）
+- Wei Lin, Lin Xu, Tao Yin, Yujie Zhang, Binxin Huang, **Xiabing Zhang**, Yang Chen, Jiaqi Chen, Fang Zeng. Exploring the role of moxibustion robots in teaching: a cross-sectional study. BMC Medical Education, 2025, 25: 58. (中科院2区)
 
 [**2023**]
 - **Xiabing Zhang**; Bin Lu; Zihan Weng; Yifeng Wang; Jingming Hou; Jing Qiu; Dezhong Yao; Fali Li; Peng Xu; Within and between electrophysiology networks for EEG and EMG under different thumb forces, Biomedical Signal Processing and Control, 2023, 86: 105249.（中科院2区）
