@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "个人主页"
 description              : "个人成果：项目、论文、专利等"
+repository               : "xbzhang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
