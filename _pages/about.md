@@ -34,11 +34,10 @@ redirect_from:
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+</div>
+</div>
 
 [**2025**]
-</div>
-</div>
-
 - **Xiabing Zhang**; Yuqin Li; Pengfei Zhang; Dexian Wang; Guang Yao; Peng Xu ; Central-peripheral nervous system activation in exoskeleton modes: A Granger causality analysis via EEG-EMG fusion, Expert Systems With Applications, 2025, 268: 126311-126311.（中科院1区）
 - **Xiabing Zhang**; Bin Lu; Zihan Weng; Yifeng Wang; Jingming Hou; Jing Qiu; Dezhong Yao; Fali Li; Peng Xu; Within and between electrophysiology networks for EEG and EMG under different thumb forces, Biomedical Signal Processing and Control, 2023, 86: 105249.（中科院2区）
 - **Xiabing Zhang**; Yuanlin Jiang; Shu Zhang; Fali Li; Changfu Pei; Gang He; Min Ao; Dezhong Yao; Yong Zhao; Peng Xu; Correlation Analysis of EEG Brain Network with modulated acoustic stimulation for chronic tinnitus patients, IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2021, 29: 156-162.（中科院2区）
