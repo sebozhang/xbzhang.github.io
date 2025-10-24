@@ -1,29 +1,54 @@
-name: Get Citation Data
+name: Update Google Scholar Stats
 
-on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+on:
+  schedule:
+    # 每周一早上8点运行（UTC时间，北京时间16:00）
+    - cron: '0 8 * * 1'
+  workflow_dispatch:  # 允许手动触发
 
 jobs:
-  build:
+  update-scholar-stats:
     runs-on: ubuntu-latest
+    
     steps:
-    - uses: actions/checkout@v2
-    - name: Install Reqs
-      run: |
-        sudo apt-get install python3-setuptools
-    - name: Run
+    - name: Checkout google-scholar-stats branch
+      uses: actions/checkout@v4
+      with:
+        ref: google-scholar-stats
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+        
+    - name: Install dependencies
       run: |
         cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
-        python3 main.py
-        cd ./results
-        git init
-        git config --local user.name "${GITHUB_ACTOR}"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        git add *.json
-        git commit -m "Updated Citation Data"
-        git push "${remote_repo}" HEAD:google-scholar-stats --force
+        pip install -r requirements.txt
+        
+    - name: Run citation crawler
+      run: |
+        cd ./google_scholar_crawler
+        python main.py
       env: 
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        
+    - name: Commit and push results
+      run: |
+        # 移动结果文件到正确位置
+        mv ./google_scholar_crawler/results/*.json ./
+        
+        # 配置git
+        git config --local user.name "GitHub Actions"
+        git config --local user.email "actions@users.noreply.github.com"
+        
+        # 提交更改
+        git add *.json
+        git status  # 查看更改状态
+        if git diff-index --quiet HEAD --; then
+          echo "No changes to commit"
+        else
+          git commit -m "📈 Update citation data - $(date +'%Y-%m-%d %H:%M')"
+          git push origin google-scholar-stats
+        fi
