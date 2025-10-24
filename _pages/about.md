@@ -54,7 +54,7 @@ redirect_from:
 - **Xiabing Zhang**; Yuanlin Jiang; Shu Zhang; Fali Li; Changfu Pei; Gang He; Min Ao; Dezhong Yao; Yong Zhao; Peng Xu; Correlation Analysis of EEG Brain Network with modulated acoustic stimulation for chronic tinnitus patients, IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2021, 29: 156-162.（中科院2区）
 
 # 🎖 Honors and Awards
-- *2021.10* 智能医学学院2024年教师本科教学质量等级优秀级. 
+- *2024.11* 智能医学学院2024年教师本科教学质量等级优秀级. 
 
 # 📖 Educations
 - *2023.08 - now*, 成都中医药大学(双一流), 智能医学学院, 博士后. 
@@ -64,5 +64,5 @@ redirect_from:
 - *2025.09*: &nbsp; 在MAGIC研究组分享了Alireza Chamanzar等人发表于Communications biology的《Neural silences can be localized rapidly using noninvasive scalp EEG》以及Anahit Babayan等人发表于Scientific data的《A mind-brainbody dataset of MRI, EEG, cognition, emotion, and peripheral physiology in young and old adults》。 \| [\[video\]](https://mp.weixin.qq.com/s/CtKQ5MZ0gQhIKbb32RIm3A)
 
 # 💻 Recent work
-- *2013.08 - now*, 中医药人工智能, China.
+- *2023.08 - now*, 中医药人工智能, China.
 - *2017.09 - 2023.06*, [运动相关神经电生理研究](https://www.tandfonline.com/doi/full/10.1080/27706710.2023.2183096#abstract), China.
