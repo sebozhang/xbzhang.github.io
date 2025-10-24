@@ -23,8 +23,8 @@ redirect_from:
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10*: &nbsp;🎉 作为参会人员聆听了第八届图像计算与数字医学国际研讨会（ISICDM 2025），来自国内外多所高校、医院与企业的知名学者与专家围绕人工智能、数字建模、数据整合及临床转化等多个方向展开深入探讨。 
+- *2025.09*: &nbsp;🎉 在MAGIC研究组分享了Alireza Chamanzar等人发表于Communications biology的《Neural silences can be localized rapidly using noninvasive scalp EEG》以及Anahit Babayan等人发表于Scientific data的《A mind-brainbody dataset of MRI, EEG, cognition, emotion, and peripheral physiology in young and old adults》。 
 
 # 📝 Publications 
 
