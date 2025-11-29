@@ -39,6 +39,7 @@ redirect_from:
 [**2025**]
 - **Xiabing Zhang**; Yuqin Li; Pengfei Zhang; Dexian Wang; Guang Yao; Peng Xu ; Central-peripheral nervous system activation in exoskeleton modes: A Granger causality analysis via EEG-EMG fusion, Expert Systems With Applications, 2025, 268: 126311-126311.（中科院1区）
 - Wei Lin, Lin Xu, Tao Yin, Yujie Zhang, Binxin Huang, **Xiabing Zhang**, Yang Chen, Jiaqi Chen, Fang Zeng. Exploring the role of moxibustion robots in teaching: a cross-sectional study. BMC Medical Education, 2025, 25: 58. (中科院2区)
+- Pengfei Zhang, Qinli Zhang, Jingxin Liu, Dexian Wang, Hua Ye, **Xiabing Zhang**, Tianrui Li. Information Fusion and Feature Selection for Multi-Source Data Utilizing Dempster-Shafer Evidence Theory and K-Nearest Neighbors. Information Sciences, 2025: 122408. (中科院2区)
 
 [**2024**]
 - Pan Zhang, Yangke Mao, Liangchao Gao, Zilei Tian, Ruirui Sun, Yuqi He, Peihong Ma, Beihong Dou, Yuan Chen, **Xiabing Zhang**, Zhaoxuan He, Tao Yin, Fang Zeng. Abnormal functional connectivity of the reward circuit associated with early satiety in patients with postprandial distress syndrome. Appetite, 2024, 197: 107317. (中科院2区)
