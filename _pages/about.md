@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-张夏冰，博士毕业于电子科技大学，助理研究员，成都中医药大学“师资博士后”，长期从事多模态神经影像、神经电生理、针灸人工智能等研究方向。在生物医学工程、计算机科学与技术、中医学和针灸推拿等领域，与校内和校外相关国家级或教育部重点实验室开展了学术交叉和研究。近年来，本人主持校级科研项目2 项，主研国家级课题1 项，发表论文10 余篇，其中第一作者SCI 论文5篇。
+张夏冰，博士毕业于电子科技大学，助理研究员，成都中医药大学“师资博士后”，长期从事神经电生理、智能康复、针灸智能化等研究方向。在生物医学工程、计算机科学与技术、中医学和针灸推拿等领域，与校内和校外相关国家级或教育部重点实验室开展了学术交叉和研究。近年来，本人主持校级科研项目2 项，主研国家级课题1 项，发表论文10 余篇，其中第一作者SCI 论文5篇。
 
 作为第一作者发表在《Expert Systems With Applications》（IF: 7.5）上的论文“Central-Peripheral Nervous System Activation in Exoskeleton Modes: A Granger Causality Analysis via EEG-EMG Fusion”，首次通过脑肌电融合与格兰杰因果分析，揭示了外骨骼助力模式下中枢与外周神经系统的协同激活与因果连接机制，被国内外同行多次引用 <a href='https://scholar.google.com/citations?user=VkcPYRMAAAAJ'>google scholar citations <strong><span id='total_cit'>27+</span></strong></a>，为智能康复机器人的人机交互与精准控制提供了关键的神经科学依据。
 
