@@ -36,6 +36,9 @@ redirect_from:
 </div>
 </div>
 
+[**2026**]
+- Chunli Chen, Jiaxin Zhao, **Xiabing Zhang**, Bin Lu, Dezhong Yao, Jing Lu, Yangsong Zhang, Peng Xu, Xuntai Ma, Fali Li. Fine-grained upper limb force control relies on distributed functional connectivity during motor planning: a scalp EEG study, IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2026, 34: 2428-2437.（IF6.597）
+
 [**2025**]
 - **Xiabing Zhang**; Yuqin Li; Pengfei Zhang; Dexian Wang; Guang Yao; Peng Xu ; Central-peripheral nervous system activation in exoskeleton modes: A Granger causality analysis via EEG-EMG fusion, Expert Systems With Applications, 2025, 268: 126311-126311.（中科院1区）
 - Wei Lin, Lin Xu, Tao Yin, Yujie Zhang, Binxin Huang, **Xiabing Zhang**, Yang Chen, Jiaqi Chen, Fang Zeng. Exploring the role of moxibustion robots in teaching: a cross-sectional study. BMC Medical Education, 2025, 25: 58. (中科院2区)
