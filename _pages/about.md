@@ -23,7 +23,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉 作为参会人员聆听了第八届图像计算与数字医学国际研讨会（ISICDM 2025），来自国内外多所高校、医院与企业的知名学者与专家围绕人工智能、数字建模、数据整合及临床转化等多个方向展开深入探讨。 
+- *2025.10*: &nbsp;🎉 作为参会人员聆听了第八届图像计算与数字医学国际研讨会（[ISICDM 2025]([https://www.tandfonline.com/doi/full/10.1080/27706710.2023.2183096#abstract](https://ry.runyi.net/pages/weChat/weChatHome?contentId=7&id=2&item_id=41&meetingId=2))），来自国内外多所高校、医院与企业的知名学者与专家围绕人工智能、数字建模、数据整合及临床转化等多个方向展开深入探讨。 
 
 # 📝 Publications 
 
